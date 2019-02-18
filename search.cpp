@@ -2,6 +2,7 @@
 #include <cstdlib>//for "exit()" on some systems
 #include <vector>
 #include <string>
+#include "lsearch.hpp"
 
 using namespace std;
 
@@ -66,4 +67,6 @@ int main()
    cout<<endl<<"Program \"search it\" is now finished."<<endl<<endl;
 
     return 0;
+    
 }
+
